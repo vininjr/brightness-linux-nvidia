@@ -8,7 +8,7 @@ brightness-linux-nvidia is a brightness manager easy and simpler for the linux.
 
 ### Dependencies
 
--   Nvidia drivers
+-   ![](/nspector/Images/n1-016.png) Nvidia drivers
 
 ### Build from GitHub
 
