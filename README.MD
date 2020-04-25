@@ -3,7 +3,7 @@ brightness-linux-nvidia
 
 [![Build Status](https://travis-ci.org/vasi/pixz.svg?branch=master)](https://vininjr.github.io)
 
-<img src="https://avatars3.githubusercontent.com/u/7774242?s=460&u=9e0dc7410875065df170c8c6e8ad02d123b99711&v=4" height="30" width="30" >
+<img src="https://avatars3.githubusercontent.com/u/7774242?s=460&u=9e0dc7410875065df170c8c6e8ad02d123b99711&v=4" height="50" width="50" >
 
 brightness-linux-nvidia is a brightness manager easy and simpler for the linux.
 
