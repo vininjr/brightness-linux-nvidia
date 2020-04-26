@@ -35,8 +35,6 @@ You many need `sudo` permissions to run `update.sh`.
 Usage
 -----
 
-### Usage
-
 Get current brightness:
 
 ```
